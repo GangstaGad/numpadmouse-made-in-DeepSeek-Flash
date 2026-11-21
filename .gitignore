@@ -1,0 +1,13 @@
+# сборка
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# тестовые артефакты
+test/run*.txt
+test/*.exe
+
+# отладка
+*.log
